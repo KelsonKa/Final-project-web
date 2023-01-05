@@ -1,0 +1,67 @@
+body {
+text-align: center;
+margin: 0;
+font-family: Georgia, serif;
+font-size: 20px;
+}
+#Head {
+font-family:  Apple Chancery, cursive;
+color: white;
+
+}
+h1 {
+font-size: 200%;
+margin-top: 0,
+}
+div {
+
+}
+.pro {
+text-decoration: underline;
+}
+.pic {
+display: inline-block;
+width: 1000px;
+
+}
+#sndgif {
+width: 1000px;
+}
+.top-container {
+background-image: url(https://media.giphy.com/media/5ZXA1Gb4uleV1nHVhF/giphy.gif);
+position: relative;
+background-color: black;
+color: white;
+font-size: 25px;
+}
+.profile {
+background-color: black;
+color: white;
+background-image: url(https://media.giphy.com/media/5ZXA1Gb4uleV1nHVhF/giphy.gif);
+font-size: 25px;
+}
+.skills {
+background-color: black;
+color: white;
+margin: 0;
+background-image: url(https://media.giphy.com/media/5ZXA1Gb4uleV1nHVhF/giphy.gif);
+font-size: 25px;
+}
+
+
+.contact-me {
+background-color: black;
+color: white;
+width: 1500px;
+background-image: url(https://media.giphy.com/media/5ZXA1Gb4uleV1nHVhF/giphy.gif);
+font-size: 25px;
+}
+
+.bottom-container {
+width: 1000px
+position: relative;
+right: 100px
+background-color: black;
+font-size: 25px;
+text-align: center;
+}
